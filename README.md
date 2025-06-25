@@ -39,3 +39,6 @@ Final Project.pbix – Power BI dashboard with interactive visuals and insights
 gifts_age_newest.xlsx – Source dataset with consumer and product info
 
 Project ppt.pptx – Presentation with project summary, analysis, and strategy
+
+📬 Contact
+For any queries or feedback, feel free to connect with me via LinkedIn - http://www.linkedin.com/in/shubhi-yadav-b34699310 email - yshubhi175@gamil.com
